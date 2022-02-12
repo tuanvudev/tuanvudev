@@ -6,6 +6,7 @@ Giới thiệu về bản thân :
 - Ngày sinh : 12/02/2008
 - Nơi sống : Đà Nẵng
 - Quê quán : Thừa Thiên Huế
+- Biệt danh : Vux
 - Sở thích : Lập trình, khám phá Công nghệ
 
 Mạng xã hội :
