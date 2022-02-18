@@ -3,7 +3,7 @@
 Giới thiệu về bản thân :
 
 - Họ và tên : Phan Tuấn Vũ
-- Ngày sinh : 12/02/2008
+- Ngày sinh : 12/02
 - Nơi sống : Đà Nẵng
 - Quê quán : Thừa Thiên Huế
 - Biệt danh : Vux
@@ -16,4 +16,4 @@ Mạng xã hội :
 - Youtube : <a>https://www.youtube.com/channel/UCqP8WJd0EeGS_YAwne_DDqA</a>
 - Zalo : 0962.416.606
 
-Goodbye😁
+### Goodbye😁
