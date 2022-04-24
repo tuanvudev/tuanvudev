@@ -3,7 +3,7 @@
 
 - Quê Quán : **Thừa Thiên Huế**
 - Nơi ở : **Đà Nẵng**
-- Ngày sinh : **12/02/2008**
+- Ngày sinh : **12/02/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanvudev&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
